@@ -1,0 +1,5 @@
+[*.cs]
+end_of_line = crlf
+charset = utf-8-bom
+indent_size = 4
+indent_style = space
